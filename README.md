@@ -1,0 +1,3 @@
+#YarnAppMonitor
+
+本工程用于监控Yarn的application列表。目前主要监控192.168.1.1服务器里的application_name程序的运行状态，如果异常退出则会发送邮件通知管理人员
